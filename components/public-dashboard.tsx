@@ -667,7 +667,7 @@ export function PublicDashboard() {
 
       <footer className="bg-[#142e27] text-white">
         <div className="site-shell py-10 sm:py-12">
-          <div className="grid gap-10 border-b border-white/10 pb-10 lg:grid-cols-[1fr_0.55fr_0.55fr]">
+          <div className="grid gap-9 border-b border-white/10 pb-8 lg:grid-cols-[0.8fr_0.42fr_1.15fr]">
             <div className="max-w-md">
               <p className="text-sm font-semibold">BIT Patna Energy Audit</p>
               <p className="mt-3 text-sm leading-7 text-[#aebfba]">
@@ -683,9 +683,23 @@ export function PublicDashboard() {
               </div>
             </div>
             <div>
-              <p className="footer-heading">Research credit</p>
-              <p className="mt-4 text-sm leading-7 text-[#b8c7c2]">Bhabya Bharti<br />B.Tech EEE · 2026</p>
+              <p className="footer-heading">Research attribution</p>
+              <p className="mt-4 text-sm font-semibold leading-6 text-white">
+                Electrical Energy Auditing of BIT Mesra Off-Campus Patna
+              </p>
+              <p className="mt-2 text-sm leading-6 text-[#b8c7c2]">
+                Bhabya Bharti · B.Tech EEE · 2026
+                <br />
+                Birla Institute of Technology, Mesra Off-Campus Patna
+              </p>
             </div>
+          </div>
+          <div className="flex gap-3 border-b border-white/10 py-5 text-[11px] leading-5 text-[#9fb1ab]">
+            <BookOpen aria-hidden="true" className="mt-0.5 shrink-0 text-[#d8edb6]" size={15} />
+            <p>
+              This repository preserves the supplied thesis PDF and project specifications as source material.
+              Confirm redistribution rights before exposing the PDF as a public download.
+            </p>
           </div>
           <div className="flex flex-col gap-3 pt-6 text-[11px] text-[#91a49e] sm:flex-row sm:items-center sm:justify-between">
             <p>Historical baseline · last source period January 2026</p>
