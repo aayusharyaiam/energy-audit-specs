@@ -1,0 +1,14 @@
+month,consumption_kwh,amount_inr,source,source_page,verification_status
+2025-01-01,45600,387600,historical_import,32,needs_review
+2025-02-01,48180,414630,historical_import,32,needs_review
+2025-03-01,79000,671500,historical_import,32,needs_review
+2025-04-01,134665,1101237,historical_import,32,needs_review
+2025-05-01,110680,901575,historical_import,32,needs_review
+2025-06-01,103775,797042,historical_import,32,needs_review
+2025-07-01,105130,855982,historical_import,32,needs_review
+2025-08-01,154030,1317378,historical_import,32,needs_review
+2025-09-01,157940,1339468,historical_import,32,needs_review
+2025-10-01,111385,947808,historical_import,32,needs_review
+2025-11-01,88665,776565,historical_import,32,needs_review
+2025-12-01,77235,698493,historical_import,32,needs_review
+2026-01-01,100785,913606,historical_import,32,needs_review
