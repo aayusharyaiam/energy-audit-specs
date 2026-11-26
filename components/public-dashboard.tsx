@@ -509,11 +509,11 @@ export function PublicDashboard() {
                 <dl className="mt-8 grid grid-cols-2 gap-3 border-t border-border pt-5">
                   <div>
                     <dt className="text-[10px] font-semibold uppercase tracking-[0.13em] text-muted">Capital</dt>
-                    <dd className="mt-1.5 text-lg font-semibold tabular-nums text-ink">₹8.64 lakh</dd>
+                    <dd className="mt-1.5 text-lg font-semibold tabular-nums text-ink">₹9.60 lakh</dd>
                   </div>
                   <div>
                     <dt className="text-[10px] font-semibold uppercase tracking-[0.13em] text-muted">Payback</dt>
-                    <dd className="mt-1.5 text-lg font-semibold tabular-nums text-ink">~58 months</dd>
+                    <dd className="mt-1.5 text-lg font-semibold tabular-nums text-ink">~47.3 months</dd>
                   </div>
                 </dl>
                 <p className="mt-5 text-[11px] text-muted">Source calculation · PDF pp. 39–40</p>

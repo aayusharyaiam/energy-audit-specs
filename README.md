@@ -1,5 +1,7 @@
 # BIT Patna Energy Audit Dashboard
 
+The modeled solar street lighting proposal covers 96 units, with an estimated capital cost of ₹9.60 lakh and a payback of about 47.3 months.
+
 A responsive, research-first dashboard for **Electrical Energy Auditing of BIT Mesra Off-Campus Patna**, based on Bhabya Bharti's 2026 B.Tech Electrical and Electronics Engineering thesis.
 
 The website translates the source report into a clear public experience while keeping recorded bills, equipment snapshots, modeled estimates, disputed calculations, and future submitted readings visibly distinct.
